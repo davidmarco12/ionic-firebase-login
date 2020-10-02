@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "proyecto-prueba-2c1dc": {
+      "hosting": {
+        "app": [
+          "proyecto-prueba-2c1dc"
+        ]
+      }
+    }
+  }
+}
